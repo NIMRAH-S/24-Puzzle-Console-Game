@@ -24,14 +24,15 @@ This is a **console-based 24 Puzzle game** implemented in **C++**, designed to c
 git clone https://github.com/NIMRAH-S/24-Puzzle-Console-Game.git
 cd 24-Puzzle-Console-Game
 
-### 2. Compile the Game
+2. Compile the Game
 g++ "24 Puzzle Game.cpp" -o puzzle
 
 ⚠️ On Windows, make sure you're using a compiler that supports <conio.h> and <windows.h>, such as MinGW or Code::Blocks.
 
-### 3. Run the Game
+3. Run the Game
 ./puzzle
 
+```
 📝 Game Instructions
 A randomly shuffled board will be generated
 A goal state (ordered from 1 to 24) will be displayed
