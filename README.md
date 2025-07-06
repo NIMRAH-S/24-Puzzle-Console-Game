@@ -33,7 +33,9 @@ g++ "24 Puzzle Game.cpp" -o puzzle
 ./puzzle
 
 ```
-📝 Game Instructions
+---
+
+### 📝 Game Instructions
 A randomly shuffled board will be generated
 A goal state (ordered from 1 to 24) will be displayed
 Use the following keys to move the blank tile:
@@ -44,6 +46,9 @@ Use the following keys to move the blank tile:
 After each move, the game checks if you've reached the goal state
 All your moves are saved in moves.txt
 
-👨‍💻 Contributors
+---
+
+### 👨‍💻 Contributors
 Nimrah Shahid
 Seema Haider
+
