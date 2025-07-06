@@ -36,19 +36,19 @@ g++ "24 Puzzle Game.cpp" -o puzzle
 ---
 
 ### 📝 Game Instructions
-A randomly shuffled board will be generated
-A goal state (ordered from 1 to 24) will be displayed
-Use the following keys to move the blank tile:
- U → Move blank Up
- D → Move blank Down
- L → Move blank Left
- R → Move blank Right
-After each move, the game checks if you've reached the goal state
-All your moves are saved in moves.txt
+- A randomly shuffled board will be generated
+- A goal state (ordered from 1 to 24) will be displayed
+- Use the following keys to move the blank tile:
+ - U → Move blank Up
+ - D → Move blank Down
+ - L → Move blank Left
+ - R → Move blank Right
+- After each move, the game checks if you've reached the goal state
+- All your moves are saved in moves.txt
 
 ---
 
 ### 👨‍💻 Contributors
-Nimrah Shahid
-Seema Haider
+- Nimrah Shahid
+- Seema Haider
 
